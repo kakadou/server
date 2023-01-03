@@ -1,0 +1,1 @@
+java -Xms3G -Xmx3G --add-modules=jdk.incubator.vector -jar purpur-1.19.3-1883.jar --nogui

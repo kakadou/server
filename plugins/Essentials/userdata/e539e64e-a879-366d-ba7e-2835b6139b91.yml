@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 111.32.77.248
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1672639089684
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672639294855
+  login: 1672638075289
+money: '0'
+last-account-name: p100
+logoutlocation:
+  world: cd1f5cad-95fc-4b60-86e1-54bfd18b24a3
+  world-name: world
+  x: 298.2536558045421
+  y: 66.0
+  z: -982.2855674443072
+  yaw: 48.59982681274414
+  pitch: 9.45005989074707
+lastlocation:
+  world: cd1f5cad-95fc-4b60-86e1-54bfd18b24a3
+  world-name: world
+  x: 196.47538099817092
+  y: 66.9375
+  z: -1003.2608396413079
+  yaw: -96.00006103515625
+  pitch: 12.300013542175293
+homes:
+  home:
+    world: cd1f5cad-95fc-4b60-86e1-54bfd18b24a3
+    world-name: world
+    x: 223.69887455146593
+    y: 64.0
+    z: -930.3000000119209
+    yaw: 165.2998046875
+    pitch: 25.650115966796875

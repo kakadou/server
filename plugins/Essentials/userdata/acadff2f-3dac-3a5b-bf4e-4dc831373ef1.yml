@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 111.32.77.248
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1672663248909
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672704965626
+  login: 1672704595463
+money: '0'
+last-account-name: kakadou
+logoutlocation:
+  world: cd1f5cad-95fc-4b60-86e1-54bfd18b24a3
+  world-name: world
+  x: -143.83782577812167
+  y: 6.0
+  z: -356.4062622048389
+  yaw: -177.4451904296875
+  pitch: 36.14994430541992
+lastlocation:
+  world: cd1f5cad-95fc-4b60-86e1-54bfd18b24a3
+  world-name: world
+  x: -151.75856074319665
+  y: 90.09928409736698
+  z: -339.1222620638793
+  yaw: -132.59490966796875
+  pitch: 2.0999746322631836
+homes:
+  home:
+    world: cd1f5cad-95fc-4b60-86e1-54bfd18b24a3
+    world-name: world
+    x: 298.3240082688741
+    y: 66.0
+    z: -982.5185125985803
+    yaw: -1.950182318687439
+    pitch: 21.30005645751953

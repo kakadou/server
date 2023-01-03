@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 119.126.106.69
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672717563447
+  login: 1672717084875
+money: '0'
+last-account-name: bnm
+logoutlocation:
+  world: cd1f5cad-95fc-4b60-86e1-54bfd18b24a3
+  world-name: world
+  x: -94.9840732632485
+  y: 81.47286969868874
+  z: -331.02168129222406
+  yaw: -109.5333251953125
+  pitch: 24.450429916381836
+lastlocation:
+  world: cd1f5cad-95fc-4b60-86e1-54bfd18b24a3
+  world-name: world
+  x: 254.3464694956109
+  y: 72.85122824801094
+  z: -929.1902740455012
+  yaw: -68.54931640625
+  pitch: 18.899938583374023
